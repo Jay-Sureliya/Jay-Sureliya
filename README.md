@@ -1,4 +1,4 @@
-## Hi there 👋
+![logo](https://github.com/Jay-Sureliya/Jay-Sureliya/blob/main/coding.png)
 
 <h1 align="center">Hi 👋, I'm Jay Sureliya</h1>
 <h3 align="center">A passionate Web developer from India</h3>
