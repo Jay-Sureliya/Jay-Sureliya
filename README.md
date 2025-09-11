@@ -1,26 +1,21 @@
-<h1 align="center">Hi 👋, I'm Pipaliya Mihir</h1>
+<h1 align="center">Hi 👋, I'm Sureliya Jay</h1>
 <h3 align="center">Python Developer | Machine Learning Enthusiast | Data Explorer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pipaliyamihir&label=Profile%20views&color=0e75b6&style=flat" alt="pipaliyamihir" /> 
-</p>
+
 
 - 🔭 Currently working on *Python & Machine Learning projects*  
 - 📚 Skilled in *Pandas, NumPy, Matplotlib, and Scikit-learn*  
-- 📫 How to reach me: *mpipalia29@gmail.com*  
+- 📫 How to reach me: *sureliyajay01@gmail.com.com*  
 - 🌱 Exploring *Data Science & AI applications*  
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mihir-pipaliya-472b08304" target="blank">
+<a href="https://www.linkedin.com/in/jay-sureliya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://fb.com/mihir pipaliya m." target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-</a>
-<a href="https://instagram.com/mihir_pipaliya" target="blank">
+<a href="https://www.instagram.com/jay_gajjar_013?igsh=MXB1dGRrcnVmeTMxdg==" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 </p>
