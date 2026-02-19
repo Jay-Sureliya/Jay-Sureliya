@@ -1,52 +1,90 @@
-<h1 align="center">Hi 👋, I'm Sureliya Jay</h1>
-<h3 align="center">Python Developer | Machine Learning Enthusiast | Data Explorer</h3>
-
-
-
-- 🔭 Currently working on *Python & Machine Learning projects*  
-- 📚 Skilled in *Pandas, NumPy, Matplotlib, and Scikit-learn*  
-- 📫 How to reach me: *sureliyajay01@gmail.com.com*  
-- 🌱 Exploring *Data Science & AI applications*  
+<h1 align="center">Hi 👋, I'm Jay Sureliya</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | Python Developer | Deep Learning Enthusiast</h3>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🚀 About Me
+
+* 🎓 Pursuing **Bachelor of Computer Application (BCA)** from RK University, Rajkot
+* 🤖 Built **AI & Deep Learning projects** like Next Word Predictor and Diabetes Predictor
+* ⚡ Skilled in **Python, Machine Learning, Deep Learning, and FastAPI**
+* 🌱 Currently exploring **Advanced Machine Learning, NLP, and AI Deployment**
+* 📫 Reach me at: **[sureliyajay01@gmail.com](mailto:sureliyajay01@gmail.com)**
+
+---
+
+## 🧠 Machine Learning Projects
+
+### 🔹 Next Word Predictor (Ghost Text)
+
+* Built using **Python, TensorFlow, Keras, FastAPI, Streamlit**
+* Developed **LSTM-based deep learning model**
+* Created **real-time AI autocomplete system**
+* Implemented **NLP preprocessing and tokenization**
+
+### 🔹 Diabetes Predictor (ANN)
+
+* Built using **Python, TensorFlow, Keras, Streamlit**
+* Developed **Artificial Neural Network model**
+* Created **web app for real-time prediction**
+* Implemented **full ML pipeline**
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/jay-sureliya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/jay-sureliya" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/jay_gajjar_013?igsh=MXB1dGRrcnVmeTMxdg==" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+
+<a href="mailto:sureliyajay01@gmail.com" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Core Programming -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
-  </a>
+## 🛠 Languages and Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" height="40"/>
+
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pipaliyamihir&show_icons=true&locale=en&layout=compact" alt="pipaliyamihir" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pipaliyamihir&show_icons=true&locale=en" alt="pipaliyamihir" /></p>
+<p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pipaliyamihir&" alt="pipaliyamihir" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Jay-Sureliya&show_icons=true&theme=default"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Sureliya"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Sureliya&layout=compact"/>
+
+</p>
+
+---
+
+## 🎯 Career Goal
+
+To become a **Machine Learning Engineer** and build real-world AI applications that solve meaningful problems.
+
+---
